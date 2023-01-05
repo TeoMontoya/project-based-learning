@@ -8,6 +8,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
+- [C#](#c)
+- [C/C++](#cc)
+- [Clojure](#clojure)
+- [Dart](#dart)
+- [Elixir](#elixir)
+- [Erlang](#erlang)
+- [F#](#f)
 - [Go](#go)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
